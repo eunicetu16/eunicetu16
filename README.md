@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Eunice(Szu-En) Tu
+
+I'm a Data Science graduate student at the University of San Francisco and a passion for using data to solve real-world problems.
+
+### 🚀 What I’m Working On
+- Improving machine learning models for healthcare and finance applications
+- Enhancing model interpretability and tackling data drift
+- Exploring the power of LLMs, RAG pipelines, and generative AI
+
+### 📚 What I’m Learning
+- Advanced NLP techniques and transformer architectures
+- Scalable data processing with PySpark
+- ML deployment & pipeline automation
+
+### 🤝 Let’s Collaborate
+I'm always excited to work on:
+- Data storytelling & visualization
+- Social impact projects powered by data
+- Real-world ML solutions in healthcare, fintech, or sustainability
+
+### 🛠️ Tools & Tech
+`Python` | `SQL` | `Scikit-learn` | `PyTorch` | `Spark` | `Java/JavaScript` | `Tableau` | `Git` | `Docker` | `Flask`
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/eunicetu/)
+- 💻 [Portfolio](https://eunicetu.github.io/)
+- 📞 Phone: +1(510)361-7986
+- 📬 Email: eunicetu16@gmail.com
 
 <!--
-**eunicetu16/eunicetu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fun fact: I am from Taiwan and know how to play a electronic bass. 😉
 -->
